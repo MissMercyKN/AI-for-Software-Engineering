@@ -1,0 +1,12 @@
+ 150-WORD SUMMARY
+ 
+AI-powered automated testing improves coverage by adapting to changing UI elements, reducing manual testing effort, 
+and enabling continuous testing in development pipelines. 
+In this task, Selenium was used with Python to test both valid and invalid login scenarios.
+ By integrating webdriver-manager, we avoided ChromeDriver version mismatches.
+  The test was configured to accept user input for flexibility, allowing real-time credential entry. 
+  Explicit waits ensured the browser loaded fully before interacting with page elements.
+   This method simulates realistic user behavior and validates system responses. 
+   Compared to manual testing, this approach is faster, repeatable, and reduces human error. 
+   Automated tests like this can be scaled to handle more complex user flows and integrated into CI/CD pipelines for continuous validation.
+ This project demonstrates the power of AI-driven tools in maintaining software quality and improving testing efficiency.
